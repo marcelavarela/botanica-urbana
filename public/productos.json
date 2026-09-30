@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Potus",
+    "categoria": "interior",
+    "precio": 4500,
+    "imagen": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600",
+    "descripcion": "Planta colgante de hojas acorazonadas, ideal para principiantes. Se adapta a poca luz y es muy fácil de propagar por esquejes.",
+    "stock": 18
+  },
+  {
+    "id": 2,
+    "nombre": "Monstera deliciosa",
+    "categoria": "interior",
+    "precio": 9800,
+    "imagen": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=600",
+    "descripcion": "Sus hojas grandes y perforadas la convirtieron en un clásico de interior. Prefiere luz indirecta intensa y riego moderado.",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "nombre": "Ficus Lyrata",
+    "categoria": "interior",
+    "precio": 12500,
+    "imagen": "https://i.ibb.co/yn4NNNkB/ficus-lyrata.jpg",
+    "descripcion": "Conocida como 'higuera de hoja de violín', aporta volumen y presencia a cualquier ambiente luminoso.",
+    "stock": 6
+  },
+  {
+    "id": 4,
+    "nombre": "Sansevieria",
+    "categoria": "interior",
+    "precio": 5200,
+    "imagen": "https://i.ibb.co/3yRB31MD/sansevieria.jpg",
+    "descripcion": "También llamada 'lengua de suegra'. Resiste el abandono, tolera poca luz y purifica el aire.",
+    "stock": 22
+  },
+  {
+    "id": 5,
+    "nombre": "Lavanda",
+    "categoria": "exterior",
+    "precio": 3800,
+    "imagen": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=600",
+    "descripcion": "Arbusto aromático de flores violetas. Necesita sol pleno y suelo bien drenado. Atrae abejas y mariposas.",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "nombre": "Rosal trepador",
+    "categoria": "exterior",
+    "precio": 6700,
+    "imagen": "https://images.unsplash.com/photo-1502394202744-021cfbb17454?w=600",
+    "descripcion": "Ideal para cubrir pérgolas y muros. Florece en primavera-verano y requiere sol directo varias horas al día.",
+    "stock": 9
+  },
+  {
+    "id": 7,
+    "nombre": "Estatice (lavanda de mar)",
+    "categoria": "exterior",
+    "precio": 4100,
+    "imagen": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600",
+    "descripcion": "Planta rústica de jardín, muy resistente a la sequía y al viento. Perfecta para canteros de sol pleno.",
+    "stock": 13
+  },
+  {
+    "id": 8,
+    "nombre": "Palmera areca",
+    "categoria": "exterior",
+    "precio": 15900,
+    "imagen": "https://images.unsplash.com/photo-1591958911259-bee2173bdccc?w=600",
+    "descripcion": "Palmera de crecimiento rápido, perfecta para patios y galerías. Necesita riego regular en verano.",
+    "stock": 5
+  },
+  {
+    "id": 9,
+    "nombre": "Strelitzia (ave del paraíso)",
+    "categoria": "exoticas",
+    "precio": 18500,
+    "imagen": "https://images.unsplash.com/photo-1567748157439-651aca2ff064?w=600",
+    "descripcion": "Flores espectaculares con forma de ave tropical. Necesita mucha luz y temperaturas cálidas para florecer.",
+    "stock": 4
+  },
+  {
+    "id": 10,
+    "nombre": "Orquídea Phalaenopsis",
+    "categoria": "exoticas",
+    "precio": 11200,
+    "imagen": "https://i.ibb.co/4Zphqd26/Orqu-dea-Phalaenopsis.jpg",
+    "descripcion": "Elegante y delicada, florece durante meses. Requiere sustrato especial y riego por inmersión ocasional.",
+    "stock": 7
+  },
+  {
+    "id": 11,
+    "nombre": "Alocasia negra",
+    "categoria": "exoticas",
+    "precio": 14300,
+    "imagen": "https://i.ibb.co/hx8GQbRt/alocasia-negra.jpg",
+    "descripcion": "Hojas oscuras y brillantes de formas escultóricas. Ideal para coleccionistas que buscan algo distinto.",
+    "stock": 3
+  },
+  {
+    "id": 12,
+    "nombre": "Echeveria",
+    "categoria": "suculentas-cactus",
+    "precio": 2200,
+    "imagen": "https://images.unsplash.com/photo-1459156212016-c812468e2115?w=600",
+    "descripcion": "Roseta compacta de hojas carnosas grisáceas. Necesita mucha luz directa y riego escaso.",
+    "stock": 30
+  },
+  {
+    "id": 13,
+    "nombre": "Cactus columnar",
+    "categoria": "suculentas-cactus",
+    "precio": 3600,
+    "imagen": "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?w=600",
+    "descripcion": "De crecimiento lento y muy longevo. Perfecto para quienes buscan una planta de bajo mantenimiento.",
+    "stock": 20
+  },
+  {
+    "id": 14,
+    "nombre": "Kalanchoe",
+    "categoria": "con-flor",
+    "precio": 2900,
+    "imagen": "https://images.unsplash.com/photo-1509937528035-ad76254b0356?w=600",
+    "descripcion": "Suculenta florífera de colores intensos. Ideal para regalar, florece con poco cuidado.",
+    "stock": 25
+  },
+  {
+    "id": 15,
+    "nombre": "Hortensia",
+    "categoria": "con-flor",
+    "precio": 7400,
+    "imagen": "https://images.unsplash.com/photo-1597305877032-0668b3c6413a?w=600",
+    "descripcion": "Flores en racimo que cambian de color según el pH del suelo. Prefiere semisombra y riego frecuente.",
+    "stock": 8
+  }
+]
