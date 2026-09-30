@@ -73,7 +73,7 @@ public/
 
 ## 📌 Próximas mejoras
 
-- [ ] Subir el proyecto a GitHub
+- [x] Subir el proyecto a GitHub
 - [ ] Deploy en Vercel / Netlify
 - [ ] Reemplazar imágenes de stock por fotos propias
 - [ ] Agregar buscador de productos
