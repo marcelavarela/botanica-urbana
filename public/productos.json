@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "nombre": "Potus",
-    "categoria": "interior",
+    "nombre": "Girasol",
+    "categoria": "exterior",
     "precio": 4500,
-    "imagen": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600",
-    "descripcion": "Planta colgante de hojas acorazonadas, ideal para principiantes. Se adapta a poca luz y es muy fácil de propagar por esquejes.",
+    "imagen": "https://i.ibb.co/chG7z9bg/girasol.jpg",
+    "descripcion": "El girasol es la flor que persigue al sol. Cada mañana, sus cabezas jóvenes giran de este a oeste siguiendo la luz, un espectáculo que no se puede ver en ninguna otra planta.",
     "stock": 18
   },
   {
@@ -49,7 +49,7 @@
     "nombre": "Rosal trepador",
     "categoria": "exterior",
     "precio": 6700,
-    "imagen": "https://images.unsplash.com/photo-1502394202744-021cfbb17454?w=600",
+    "imagen": "https://i.ibb.co/ymySSTLS/rosas-trepadora.jpg",
     "descripcion": "Ideal para cubrir pérgolas y muros. Florece en primavera-verano y requiere sol directo varias horas al día.",
     "stock": 9
   },
@@ -64,11 +64,11 @@
   },
   {
     "id": 8,
-    "nombre": "Palmera areca",
+    "nombre": "Gypsophila",
     "categoria": "exterior",
     "precio": 15900,
-    "imagen": "https://images.unsplash.com/photo-1591958911259-bee2173bdccc?w=600",
-    "descripcion": "Palmera de crecimiento rápido, perfecta para patios y galerías. Necesita riego regular en verano.",
+    "imagen": "https://i.ibb.co/HpBH3Myj/gyso.jpg",
+    "descripcion": "Gypsophila de crecimiento rápido, perfecta para patios y galerías. Necesita riego regular en verano.",
     "stock": 5
   },
   {
